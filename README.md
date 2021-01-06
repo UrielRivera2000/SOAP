@@ -41,6 +41,19 @@ Cada uno tiene la parte cliente y la parte servidor
 
 -cliente php que consume el servicio y captura los datos por medio del teclado.
 
+## Evidencia en SOAP de cada microservicio 📌
+[SOAP-PHP 1](https://github.com/UrielRivera2000/SOAP/blob/main/img/EvidenciaSOAPUI1.2.jpg)
+
+[SOAP-PHP 2](https://github.com/UrielRivera2000/SOAP/blob/main/img/EvidenciaSOAPUI2.jpg)
+
+[SOAP-PHP 3](https://github.com/UrielRivera2000/SOAP/blob/main/img/EvidenciaSOAPUI3.jpg)
+
+[SOAP-PHP/JAVA 1](https://github.com/UrielRivera2000/SOAP/blob/main/img/pruebaCorrecta4.jpg)
+
+[SOAP-PHP/JAVA 2](https://github.com/UrielRivera2000/SOAP/blob/main/img/Prueba5.jpg)
+
+[SOAP-PHP/JAVA 3](https://github.com/UrielRivera2000/SOAP/blob/main/img/Prueba%20RFC-SoapUI.jpg)
+
 ## Desarrollado en... 🛠️
 [Intellij IDEA 2020.1.1](https://www.jetbrains.com/idea/download/#section=windows) -Ultimate (Como parte de java)
 
@@ -55,4 +68,3 @@ _Espero sea de tu agrado, eres libre de mejorar cada uno._
     - Hay una carpeta de imagenes esa te servirá para saber como consumir el servicio
     - Cada projecto es independiente de otro, así que ve cual utilizas.
     - LEE cuidadosamente cada microservicio
-    - 
