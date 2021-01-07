@@ -41,6 +41,8 @@ Cada uno tiene la parte cliente y la parte servidor
 
 -cliente php que consume el servicio y captura los datos por medio del teclado.
 
+[SOAP- JAVA CON BD]()-Ejercicio Java con conexion a base de datos, tanto cliente como servidor son hechos en java.
+
 ## Evidencia en SOAP de cada microservicio 📌
 [SOAP-PHP 1](https://github.com/UrielRivera2000/SOAP/blob/main/img/EvidenciaSOAPUI1.2.jpg)
 
@@ -53,6 +55,8 @@ Cada uno tiene la parte cliente y la parte servidor
 [SOAP-PHP/JAVA 2](https://github.com/UrielRivera2000/SOAP/blob/main/img/Prueba5.jpg)
 
 [SOAP-PHP/JAVA 3](https://github.com/UrielRivera2000/SOAP/blob/main/img/Prueba%20RFC-SoapUI.jpg)
+
+[SOAP - JAVA CON BD](s) -No tiene evidencia, lo dejó así porque se consume igual que los otros servicios
 
 ## Desarrollado en... 🛠️
 [Intellij IDEA 2020.1.1](https://www.jetbrains.com/idea/download/#section=windows) -Ultimate (Como parte de java)
