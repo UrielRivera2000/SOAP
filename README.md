@@ -41,7 +41,7 @@ Cada uno tiene la parte cliente y la parte servidor
 
 -cliente php que consume el servicio y captura los datos por medio del teclado.
 
-[SOAP- JAVA CON BD]()-Ejercicio Java con conexion a base de datos, tanto cliente como servidor son hechos en java.
+[SOAP- JAVA CON BD](https://github.com/UrielRivera2000/SOAP/tree/main/JAVA/SOAP7)-Ejercicio Java con conexion a base de datos, tanto cliente como servidor son hechos en java.
 
 ## Evidencia en SOAP de cada microservicio 📌
 [SOAP-PHP 1](https://github.com/UrielRivera2000/SOAP/blob/main/img/EvidenciaSOAPUI1.2.jpg)
